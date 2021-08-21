@@ -31,7 +31,7 @@ though!
 3. Open the file in your preferred text editor (like [Notepad++](https://notepad-plus-plus.org/)). Make sure you
   right-click the file and select "Edit"! Double-clicking the script will run 
   it.
-4. 
+4. Change the DSCM_EXE variable to the full path to your DSCM.exe.
 5. Double-click the script to run it. Dark Souls should launch through Steam
   and DSCM with start.
   
